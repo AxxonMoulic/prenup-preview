@@ -21,7 +21,7 @@ video {
 }
 
 #polina {
-  max-width   : 380px
+  max-width   : 380px;
   font-weight : 100;
   background  : rgba(0,0,0,0.3);
   color       : white;
