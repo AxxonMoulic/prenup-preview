@@ -21,13 +21,14 @@ video {
 }
 
 #polina {
+  max-width   : 380px
   font-weight : 100;
   background  : rgba(0,0,0,0.3);
   color       : white;
   padding     : 2rem;
   width       : 33%;
   margin      : 2rem;
-  float       : right;
+  float       : left;
   font-size   : 1.2rem;
 }
 h1 {
