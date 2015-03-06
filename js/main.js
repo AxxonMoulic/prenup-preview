@@ -8,7 +8,7 @@ function vidFade() {
 	console.log(vid);
 }
 
-vidFade();
+//vidFade();
 
 
 vid.on( 'ended', function ( ) {
