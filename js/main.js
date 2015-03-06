@@ -5,11 +5,7 @@ var pauseButton = $( '#polina  button ' );
 
 function vidFade() {
 	vid.addClass('stopfade');
-	console.log(vid);
 }
-
-//vidFade();
-
 
 vid.on( 'ended', function ( ) {
 	vid[0].pause();
